@@ -97,7 +97,7 @@
     },
     "classrooms2": {
         "name": "Classroom",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+        "img_path": "https://api.ifolio.cloud/medias/ck/Hg/ckHgjKlpy2g6DN1hy4OAOGUigddqGBbXNZXYuTjK.jpg",
         "price": "Large or Geographical Information Systems (GIS) Lab $150,000<br/> Medium $100,000, Small $50,000",
         "fill": "#fbb03a",
         "stroke": "#c27804",
