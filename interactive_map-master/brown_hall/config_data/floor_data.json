@@ -49,7 +49,7 @@
     },
     "offices": {
         "name": "Offices",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+        "img_path": "https://api.ifolio.cloud/medias/JM/20/JM20AePyyKPuIvnlWbDV8i4mLAXL6EolaqSMbB1d.jpg",
         "price": "$15,000 - $20,000",
         "fill": "#ec2027",
         "stroke": "#9e0d12",
@@ -146,7 +146,7 @@
     "student_study2": {
         "name": "Student Study Spaces",
         "img_path": "../assets/images/Brown_Hall/card_images/BrownHall_student_study_f2.webp",
-        "price": "$20,000 - $50,000",
+        "price": "$20,000 - $40,000",
         "fill": "#439544",
         "stroke": "#2b5f2c",
         "description": "Incorporating a diverse mix of formal and informal spaces, the Student Lounge encourages collaboration and opportunity. This casual setting also invites students to relax, study and eat between classes."
