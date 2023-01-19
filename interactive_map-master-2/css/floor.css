@@ -71,6 +71,11 @@
     color: white;
 }
 
+.costshrink{
+    font-size: 18px;
+    line-height: 16px;
+}
+
 .card-text {
     color: white;
     font-weight: normal;
