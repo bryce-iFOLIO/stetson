@@ -1130,7 +1130,7 @@
         }]
     }, {
         "id": "poly-543",
-        "title": "MHeadCoach",
+        "title": "WHeadCoach",
         "type": "poly",
         "x": 65.178,
         "y": 32.215,
