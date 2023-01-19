@@ -8,6 +8,11 @@
     font-family: "Avenir";
 }
 
+.card-left > div > img {
+    height: 255px;
+    object-fit: contain;
+}
+
 .my-container {
     background-color: #ddd;
     /* position: absolute; */
