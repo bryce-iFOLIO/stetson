@@ -1,7 +1,7 @@
 {
     "teaching_kitchen": {
         "name": "Teaching Kitchen Lab",
-        "img_path": "../assets/images/Brown_Hall/card_images/photoComing.webp",
+        "img_path": "https://api.ifolio.cloud/medias/q2/iS/q2iSqr9Kb8HzDuwXJKwPbyfJ1k07qF4aiLNVGdmD.jpg",
         "price": "$200,000",
         "fill": "#cee0b3",
         "stroke": "#72953d",
