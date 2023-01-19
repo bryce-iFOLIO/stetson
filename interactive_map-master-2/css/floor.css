@@ -71,6 +71,10 @@
     color: white;
 }
 
+.card-price:has(.costshrink){
+    line-height: 16px;
+}
+
 .costshrink{
     font-size: 18px;
     line-height: 16px;
