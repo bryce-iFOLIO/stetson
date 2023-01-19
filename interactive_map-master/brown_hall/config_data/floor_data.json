@@ -98,7 +98,7 @@
     "classrooms2": {
         "name": "Classroom",
         "img_path": "https://api.ifolio.cloud/medias/ck/Hg/ckHgjKlpy2g6DN1hy4OAOGUigddqGBbXNZXYuTjK.jpg",
-        "price": "Large or Geographical Information Systems (GIS) Lab $150,000<br/> Medium $100,000, Small $50,000",
+        "price": "<span class='costshrink'>Large or Geographical Information Systems (GIS) Lab $150,000<br/> Medium $100,000, Small $50,000<span>",
         "fill": "#fbb03a",
         "stroke": "#c27804",
         "description": "Classrooms will accommodate a wide variety of pedagogical styles and can be easily reconfigured to facilitate small group work and active learning. The GIS lab will support efforts to emphasize GIS in student training; it is an essential skill for employment in numerous environmental-related fields."
