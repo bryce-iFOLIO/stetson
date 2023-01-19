@@ -411,7 +411,7 @@
         }
     }, {
         "id": "rect-1441",
-        "title": "Display Copy",
+        "title": "Display",
         "type": "rect",
         "x": 65.758,
         "y": 43.529,
@@ -461,7 +461,7 @@
         }
     }, {
         "id": "rect-3887",
-        "title": "Display Copy Copy Copy",
+        "title": "Display",
         "type": "rect",
         "x": 51.108,
         "y": 42.575,
