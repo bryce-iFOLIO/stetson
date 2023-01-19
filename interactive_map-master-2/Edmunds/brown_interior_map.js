@@ -664,7 +664,7 @@
         }
     }, {
         "id": "rect-2481",
-        "title": "Office 4",
+        "title": "Office",
         "type": "rect",
         "x": 73.843,
         "y": 40.055,
@@ -715,7 +715,7 @@
         }
     }, {
         "id": "poly-7070",
-        "title": "Office 3",
+        "title": "Office",
         "type": "poly",
         "x": 33.79,
         "y": 41.738,
