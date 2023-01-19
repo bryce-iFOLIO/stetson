@@ -10,7 +10,7 @@
 
 .card-left > div > img {
     height: 255px;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 .my-container {
