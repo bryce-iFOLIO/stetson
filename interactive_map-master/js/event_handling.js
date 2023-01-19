@@ -31,6 +31,7 @@
         // On shape unhighlight (mouseout shape) hide the card.
         $.imageMapProEventUnhighlightedShape = function (imageMapName, shapeName) {
             $(`#card-${shapeName}`).hide();
+            document.getElementById("gOverlay").style.display = "none";
         }
 
         // On shape click, dynamically set the modal content to correspond to the shape. 
