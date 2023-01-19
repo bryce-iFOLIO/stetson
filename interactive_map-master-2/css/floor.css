@@ -72,12 +72,11 @@
 }
 
 .card-price:has(.costshrink){
-    line-height: 20px;
+    line-height: 22px;
 }
 
 .costshrink{
     font-size: 18px;
-    line-height: 16px;
 }
 
 .card-text {
