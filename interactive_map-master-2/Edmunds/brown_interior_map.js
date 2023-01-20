@@ -35,9 +35,9 @@
         }, {
             "id": 1,
             "title": "Floor 2",
-            "image_url": "https://api.ifolio.cloud/medias/8f/kC/8fkCKBLwqKicdfXeHayh6U4RXRecSFvOoPRYdE21.jpg?width=1366",
-            "image_width": 1366,
-            "image_height": 854
+            "image_url": "https://api.ifolio.cloud/medias/ic/Jn/icJn6N6QF45KmBupbtvNQBBzXGbAxCwaKSaPW7nU.jpg",
+            "image_width": 1152,
+            "image_height": 720
         }]
     },
     "spots": [{
@@ -374,7 +374,7 @@
         }]
     }, {
         "id": "rect-2221",
-        "title": "Office",
+        "title": "OfficeR",
         "type": "rect",
         "x": 73.7,
         "y": 40.131,
@@ -475,7 +475,7 @@
         }
     }, {
         "id": "rect-8881",
-        "title": "Office",
+        "title": "OfficeR",
         "type": "rect",
         "x": 65.101,
         "y": 40.222,
@@ -535,7 +535,7 @@
         "height": 9.681,
         "x_image_background": 33.79,
         "y_image_background": 41.738,
-        "connected_to": "rect-8881",
+        "connected_to": "poly-293",
         "layerID": "1",
         "default_style": {
             "background_color": "#6fccdd",
@@ -608,7 +608,6 @@
         "height": 8.528,
         "x_image_background": 33.605,
         "y_image_background": 30.915,
-        "connected_to": "rect-8881",
         "layerID": "1",
         "default_style": {
             "background_color": "#6fccdd",
@@ -1086,13 +1085,13 @@
         }]
     }, {
         "id": "rect-4282",
-        "title": "Office",
+        "title": "OfficeR",
         "type": "rect",
-        "x": 69.232,
+        "x": 69.088,
         "y": 30.45,
         "width": 7.78,
         "height": 9.836,
-        "x_image_background": 69.232,
+        "x_image_background": 69.088,
         "y_image_background": 30.45,
         "width_image_background": 7.78,
         "height_image_background": 9.836,
